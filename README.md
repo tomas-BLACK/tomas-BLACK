@@ -6,3 +6,15 @@
 
 
 I think you got the point with programming at this point ; )
+
+
+
+My languages:
+
+speaking:
+- German
+- English
+
+programming:
+- C#
+- Swift
